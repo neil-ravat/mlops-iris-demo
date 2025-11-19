@@ -10,7 +10,6 @@ exp = setup(
     data=iris,
     target='species',
     session_id=42,
-    silent=True,
     html=False
 )
 
